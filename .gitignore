@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary and coverage
+*.test
+coverage.out
+cover.out
+*.out
+
+# Build output directories
+/bin/
+/pkg/
+/_build/
+/build/
+/dist/
+
+# Dependency directories (optional if you vendor dependencies)
+vendor/
+
+# Go workspace file (if used)
+go.work
+
+# Go module cache (usually not tracked)
+Godeps/
+
+# Environment and secret files
+.envrc
+
+# Editor/IDE
+.idea/
+.vscode/
