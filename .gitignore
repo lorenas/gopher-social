@@ -31,5 +31,5 @@ Godeps/
 .envrc
 
 # Editor/IDE
-.idea/
+.idea
 .vscode/
